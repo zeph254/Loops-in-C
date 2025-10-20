@@ -1,4 +1,4 @@
-//Managing ATM transactions in C
+//Managing ATM transactions in C using while loop
 /*
   name:         Owuor Zephania Ulare
   reg:          PA106/G/29218/25
